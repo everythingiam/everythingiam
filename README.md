@@ -1,5 +1,5 @@
-# Alina Mikhailova
-### Senior Frontend Developer · React · TypeScript · Next.js
+# Hi, I'm Alina 👋
+### Senior Frontend Developer · React · TypeScript · Vue · Next.js
 
 6 years building high-performance, large-scale frontend systems at global tech companies — real-time data platforms, 3D/WebGL engines, and infrastructure used by 30–40+ engineers at a time. I focus on architecture, performance, and developer experience.
 
