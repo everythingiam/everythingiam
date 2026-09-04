@@ -33,6 +33,7 @@ A full-stack project built solo end-to-end — schema, API, image pipeline, stor
 - 900 tests total (274 domain, 409 API, 217 client)
 
 Stack: React, Vite, Express, PostgreSQL, TypeScript (shared domain package)
+
 🔗 [github.com/everythingiam/marketplace](https://github.com/everythingiam/marketplace) ·🚀 [Live demo](https://material-posters.fly.dev/)
 
 ---
@@ -52,6 +53,7 @@ Stack: React, Node.js, PostgreSQL, Socket.io, MobX
 ## 💼 Experience
 
 **Shell** — Senior Frontend Developer · *Jul 2023 – Present*
+
 Global oil & gas company operating in 70+ countries
 - Led a modular Three.js/WebGL engine integrated into 2 external products, cutting time-to-market and improving reusability
 - Migrated the frontend architecture from a layer-based structure to Feature-Sliced Design (FSD), significantly cutting feature development time
@@ -61,6 +63,7 @@ Global oil & gas company operating in 70+ countries
 - Mentored 3 engineers, cutting average onboarding time by **50%**
 
 **Wise** — Frontend Developer · *Nov 2020 – Jul 2023*
+
 Global fintech platform for international money transfers, 16M+ customers
 - Introduced testing with Jest + React Testing Library, raising coverage **0% → 80%** and cutting critical production bugs by **33%**
 - Optimized Core Web Vitals — moved LCP from 3.6s to 2.1s, all metrics into the green zone
